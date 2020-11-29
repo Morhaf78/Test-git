@@ -1,4 +1,4 @@
-## Test-Git course
+## Udemy-Git course
 ### First Assignment
 
 Name: Morhaf Bahnasi
